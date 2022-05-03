@@ -1,8 +1,8 @@
 Hi there, I’m Gustavo Lago 👋
 
 - ⚙️ I’m currently working on Front-End
-- 📖 Currently learning JavaScript
-- 🍺 Fun fact: Beer geek & beer maker
+- 📖 Currently learning JavaScript & React
+- 🍺 Fun fact: Beer Geek & Homebrewer | Science Enthusiast
 
 <div align="center">
   <a href="https://github.com/lagomoura">
