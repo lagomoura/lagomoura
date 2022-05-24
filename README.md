@@ -1,6 +1,6 @@
 Hi there, I’m Gustavo Lago 👋
 
-- ⚙️ I’m currently studyng Full Stack Developer Carrer
+- ⚙️ I’m currently studying Full Stack Developer Carrer
 - 📖 Currently learning JavaScript & React
 - 🍺 Fun fact: Beer Geek & Homebrewer | Science Enthusiast
 
