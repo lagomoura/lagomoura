@@ -1,7 +1,7 @@
 Hi there, I’m Gustavo Lago 👋
 
 - ⚙️ Full Stack's student
-- 📖 Currently learning JavaScript & React
+- 📖 Currently learning JavaScript, React & Backend
 - 🍺 Fun fact: Beer Geek & Homebrewer | Science Enthusiast
 
 <div align="center">
