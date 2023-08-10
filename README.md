@@ -1,7 +1,7 @@
 Hi there, I’m Gustavo Lago 👋
 
-- ⚙️ Full Stack's student
-- 📖 Currently improving my React's skills, learning Back end & piano 🎹
+- ⚙️ Student of the Bachelor's degree in Software Development 
+- 📖 Currently improving my Python's skills, learning SQL end & piano 🎹
 - 🍺 Fun fact: Beer Geek & Homebrewer | Science Enthusiast
 
 <div align="center">
