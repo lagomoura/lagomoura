@@ -3,12 +3,6 @@ Hi there, I’m Gustavo Lago 👋
 - ⚙️ Student of the Bachelor's degree in Software Development 
 - 📖 Currently improving my Python's skills, learning SQL end & piano 🎹
 - 🍺 Fun fact: Beer Geek & Homebrewer | Science Enthusiast
-
-<div align="center">
-  <a href="https://github.com/lagomoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lagomoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagomoura&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
