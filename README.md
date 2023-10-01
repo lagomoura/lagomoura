@@ -21,8 +21,5 @@ Hi there, I’m Gustavo Lago 👋
   
 <div> 
   <a align:"center" href = "mailto:mouralago@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a align:"center" href="https://www.linkedin.com/in/gustavo-moura-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-   ![Snake animation](https://github.com/lagomoura/lagomoura/blob/output/github-contribution-grid-snake.svg)
-  
+  <a align:"center" href="https://www.linkedin.com/in/gustavo-moura-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>  
