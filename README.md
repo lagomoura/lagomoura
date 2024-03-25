@@ -1,8 +1,8 @@
 Hi there, I’m Gustavo Lago 👋
 
 - ⚙️ Student of the Bachelor's degree in Software Development 
-- 📖 Currently improving my Python's skills, learning SQL end & piano 🎹
-- 🍺 Fun fact: Beer Geek & Homebrewer | Science Enthusiast
+- 📖 Currently improving my Machine Learning's skills, learning CNN end Deep Learning
+- 🍺 Fun fact: Beer/food Geek & Homebrewer | Science Enthusiast
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
